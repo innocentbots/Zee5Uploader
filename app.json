@@ -14,23 +14,23 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "1452499"
+      "value": "6955860"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "2d7c5b89213a2761940b816d33e68c53"
+      "value": "5050d82f0c80d662dd981f8b947cc09d"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": "1285731351:AAHrcVgbUb_2qurtToNR10zhlZcgQWZn234"
+      "value": "1866418152:AAGNtYZ5A8sRIfa4_2TzBdKo70YmTLiJrPM"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": "1001440239371"
+      "value": "515257871"
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": "1277808816"
+      "value": "1291254011"
     },
     "UPLOAD_AS_DOC": {
       "description": "True/False. If true all files will be uploaded as documents. Default is False.",
